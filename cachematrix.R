@@ -1,5 +1,3 @@
-## My function will not work properly. but I'll try to explain my intend
-## as like given example, these functions have two parts
 ## first one is cache object. so if store matrix and if fetch something, then return is
 ## second one is calculate part. if some matrix was given, this function
 ## try to find that result from cached object. 
